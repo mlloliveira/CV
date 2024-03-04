@@ -1,3 +1,3 @@
 ## CV
 
-https://mlloliveira.github.io 
+https://mlloliveira.github.io/CV
