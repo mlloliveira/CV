@@ -1,11 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Olivera;Marcio;;;
-FN:Marcio L Lima de Oliver
+N:Oliveira;Marcio;;;
+FN:Marcio L Lima de Oliveira
 ORG:
-ADR;TYPE=WORK:I am currently a Post-Doctoral researcher at
-the TU/e together with NXP.
-TITLE:Post-Doc
+ADR;TYPE=WORK:Researcher 
+TITLE:AI Researcher
 TEL;TYPE=CELL:+31685151222
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
